@@ -73,5 +73,3 @@ Or open it directly in VS Code / Google Colab.
 - Popularity metric helps identify top-performing products beyond just ratings
 
 ---
-
-*Assignment project for Python & Data Science coursework.*
