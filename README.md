@@ -1,10 +1,10 @@
-# 🛒 Shopping Dataset Analysis
+# Shopping Dataset Analysis
 
 A beginner-friendly Python project that performs **data cleaning, exploratory data analysis (EDA), and feature engineering** on an e-commerce product dataset using **Pandas, Matplotlib, and Seaborn**.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 shopping-analysis/
@@ -26,7 +26,7 @@ shopping-analysis/
 
 ---
 
-## 📊 What It Does
+## What It Does
 
 | Step | Description |
 |------|-------------|
@@ -40,7 +40,7 @@ shopping-analysis/
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 - Python 3.7+
 - pandas
@@ -55,7 +55,7 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 jupyter notebook notebook/analysis.ipynb
@@ -65,7 +65,7 @@ Or open it directly in VS Code / Google Colab.
 
 ---
 
-## 📌 Key Findings
+## Key Findings
 
 - Prices vary widely — from budget-friendly to premium across categories
 - Most products are rated between 3.5–4.5 stars
